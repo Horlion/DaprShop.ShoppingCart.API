@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaprShop.ShoppingCart.API", "DaprShop.ShoppingCart.API.csproj", "{04CC6F4C-2D50-4E03-BD0A-C5FAB6D54976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprShop.Recommendation.API", "..\DaprShop.Recommendation.API\DaprShop.Recommendation.API.csproj", "{F07FDE0F-6AEC-4EED-B28A-AEBD09A7FBD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CC6F4C-2D50-4E03-BD0A-C5FAB6D54976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CC6F4C-2D50-4E03-BD0A-C5FAB6D54976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CC6F4C-2D50-4E03-BD0A-C5FAB6D54976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CC6F4C-2D50-4E03-BD0A-C5FAB6D54976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07FDE0F-6AEC-4EED-B28A-AEBD09A7FBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07FDE0F-6AEC-4EED-B28A-AEBD09A7FBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07FDE0F-6AEC-4EED-B28A-AEBD09A7FBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07FDE0F-6AEC-4EED-B28A-AEBD09A7FBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C7CE44-7391-4B2D-A175-E95C9DBF8CB0}
+	EndGlobalSection
+EndGlobal
